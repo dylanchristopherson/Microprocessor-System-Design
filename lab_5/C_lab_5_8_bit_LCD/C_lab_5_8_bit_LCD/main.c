@@ -1,5 +1,3 @@
-
-
 //CEE-345 
 //THIS EXAMPLE IS TO INTERFACING LCD TO THE ATMEGA8515 MICROCONTROLOR
 //to a LCD built-in controller/processor (SPLC780D or ST7066U)
@@ -54,7 +52,6 @@ void lcdData(unsigned char data)
 	lcd_cprt &= ~ (1<<lcd_en); //en=0 to complete a syn. cycle
 
 	_delay_us(100);
-
 }
 
 void lcd_init()
@@ -73,7 +70,6 @@ void lcd_init()
 
 	lcdCommand(0x06);          //move cursor to right side of the LCD screen
 }
-
 
 //*****************************************************
 void lcd_gotoxy(unsigned char x, unsigned char y)
@@ -102,8 +98,6 @@ int main(void)
   lcd_init();
   while(1)
   {
-	
-	  
 	  //set cursor to row 1 and column 1 position on the LCD screen
 	  lcd_gotoxy(1,1);
 	  //print the message " I Love Processor " on the LCD screen
@@ -113,7 +107,6 @@ int main(void)
 	  lcd_gotoxy(1,2);
 	  //print the message " System Design" on the LCD screen
 	  lcd_print(" System Design:)");
-  
 	  //add while loop to show the message on the LCD screen until 
 	  //power to the board is removed.
   }
