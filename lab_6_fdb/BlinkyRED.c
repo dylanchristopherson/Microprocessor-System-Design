@@ -12,7 +12,8 @@ void Delay(unsigned int time_del) {
 	volatile int t;
 	
 	while (time_del--) {
-		for (t=4800; t>0; t--);
+		for (t=4800; t>0; t--)
+		;
 	}
 }
 
@@ -82,7 +83,7 @@ int main (void) {
 	SIM->SCGC5 |= SIM_SCGC5_PORTB_MASK | SIM_SCGC5_PORTD_MASK;
 	
 	PORTB->PCR[RED_LED_POS] &= ~PORT_PCR_MUX_MASK;
-	PORTB->PCR[RED_LED_POS] |= ~PORT_PCR_MUX(1);
+	PORTB->PCR[RED_LED_POS] |= PORT_PCR_MUX(1);
 	
 	// Set ports to outputs: Port Data Direction Register (PDDR)
 	
