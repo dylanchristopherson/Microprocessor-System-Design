@@ -1,0 +1,11 @@
+.\objects\lcd_4bit.o: source\LCD_4bit.c
+.\objects\lcd_4bit.o: source\LCD_4bit.h
+.\objects\lcd_4bit.o: D:\Downloads\arm_Keil\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.H
+.\objects\lcd_4bit.o: D:\Downloads\arm_Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lcd_4bit.o: D:\Downloads\arm_Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm0plus.h
+.\objects\lcd_4bit.o: D:\Downloads\arm_Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\lcd_4bit.o: D:\Downloads\arm_Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\lcd_4bit.o: D:\Downloads\arm_Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\lcd_4bit.o: .\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h
+.\objects\lcd_4bit.o: source\delay.h
+.\objects\lcd_4bit.o: D:\Downloads\arm_Keil\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.H

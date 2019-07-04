@@ -1,0 +1,12 @@
+.\objects\mma8451.o: source\mma8451.c
+.\objects\mma8451.o: D:\Downloads\arm_Keil\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.H
+.\objects\mma8451.o: D:\Downloads\arm_Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\mma8451.o: D:\Downloads\arm_Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm0plus.h
+.\objects\mma8451.o: D:\Downloads\arm_Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\mma8451.o: D:\Downloads\arm_Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\mma8451.o: D:\Downloads\arm_Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\mma8451.o: .\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h
+.\objects\mma8451.o: source\mma8451.h
+.\objects\mma8451.o: source\i2c.h
+.\objects\mma8451.o: source\delay.h
+.\objects\mma8451.o: D:\Downloads\arm_Keil\ARM\ARMCC\Bin\..\include\math.h

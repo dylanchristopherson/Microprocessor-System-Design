@@ -1,0 +1,16 @@
+.\output\sysinit_kl25.o: src\mcu_init\cpu\sysinit_kl25.c
+.\output\sysinit_kl25.o: src\mcu_init\common\common.h
+.\output\sysinit_kl25.o: src\frdmkl25z48m\derivative.h
+.\output\sysinit_kl25.o: src\frdmkl25z48m\MKL25Z4.h
+.\output\sysinit_kl25.o: D:\Downloads\arm_Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\sysinit_kl25.o: src\mcu_init\cpu\arm_cm0.h
+.\output\sysinit_kl25.o: src\frdmkl25z48m\board.h
+.\output\sysinit_kl25.o: src\frdmkl25z48m\derivative.h
+.\output\sysinit_kl25.o: src\frdmkl25z48m\MKL25Z4.h
+.\output\sysinit_kl25.o: src\mcu_init\drivers\mcg\mcg_kl25.h
+.\output\sysinit_kl25.o: src\mcu_init\common\startup.h
+.\output\sysinit_kl25.o: D:\Downloads\arm_Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\sysinit_kl25.o: src\mcu_init\cpu\sysinit.h
+.\output\sysinit_kl25.o: src\mcu_init\drivers\uart\uart_kl25.h
+.\output\sysinit_kl25.o: src\frdmkl25z48m\derivative.h
+.\output\sysinit_kl25.o: src\frdmkl25z48m\MKL25Z4.h

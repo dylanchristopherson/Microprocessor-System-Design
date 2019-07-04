@@ -1,0 +1,17 @@
+.\output\events.o: src\events.c
+.\output\events.o: include\lib\shared\TSS_API.h
+.\output\events.o: src\frdmkl25z48m\TSS_SystemSetup.h
+.\output\events.o: src\TSS_SystemSetupGlobal.h
+.\output\events.o: include\lib\shared\TSS_StatusCodes.h
+.\output\events.o: include\lib\shared\TSS_DataTypes.h
+.\output\events.o: D:\Downloads\arm_Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\events.o: include\lib\shared\TSS_Sensor.h
+.\output\events.o: src\frdmkl25z48m\derivative.h
+.\output\events.o: src\frdmkl25z48m\MKL25Z4.h
+.\output\events.o: src\mcu_init\cpu\arm_cm0.h
+.\output\events.o: include\lib\shared\TSS_API.h
+.\output\events.o: src\frdmkl25z48m\board.h
+.\output\events.o: src\frdmkl25z48m\derivative.h
+.\output\events.o: src\frdmkl25z48m\MKL25Z4.h
+.\output\events.o: src\app_init.h
+.\output\events.o: src\events.h

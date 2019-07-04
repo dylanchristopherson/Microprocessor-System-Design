@@ -1,0 +1,341 @@
+Dependencies for Project 'PLATFORM', Target 'PLATFORM - Cory Hahlbeck': (DO NOT MODIFY !)
+F (src\app_init.c)(0x521653EE)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork -Isrc\mcu_init\cpu -Isrc\mcu_init\drivers\uart -Isrc\mcu_init\drivers\wdog -Isrc\module_id -Isrc\frdmkl25z48m -Iinclude\gui\source\src_common -Iinclude\gui\source\src_platforms\Kxx -Iinclude\lib\shared -Iinclude\lib\lib_uv4 -Isrc\mcu_init\common -Isrc\mcu_init\platforms -Isrc\mcu_init\drivers\mcg -Iinclude -Isrc-I C:\Keil\v474\ARM\RV31\INC-I C:\Keil\v474\ARM\CMSIS\Include-I C:\Keil\v474\ARM\Inc\Freescale\Kinetis-DFREEDOM -DFRDM_KL25Z48-o .\output\app_init.o --omf_browse .\output\app_init.crf --depend .\output\app_init.d)
+I (include\lib\shared\TSS_API.h)(0x51F65C3C)
+I (src\frdmkl25z48m\TSS_SystemSetup.h)(0x51BF5EB2)
+I (src\TSS_SystemSetupGlobal.h)(0x521653EE)
+I (include\lib\shared\TSS_StatusCodes.h)(0x51F65C3E)
+I (include\lib\shared\TSS_DataTypes.h)(0x520CFE66)
+I (C:\Keil\v474\ARM\ARMCC\include\stdint.h)(0x51C88A34)
+I (include\lib\shared\TSS_Sensor.h)(0x520A7230)
+I (src\frdmkl25z48m\derivative.h)(0x518BFA58)
+I (src\frdmkl25z48m\MKL25Z4.h)(0x55458EC0)
+I (src\mcu_init\cpu\arm_cm0.h)(0x50F6094E)
+I (src\frdmkl25z48m\board.h)(0x518BFA58)
+I (src\main.h)(0x521653EE)
+I (src\mcu_init\drivers\wdog\wdog.h)(0x50F60950)
+I (src\app_init.h)(0x518BFA58)
+F (src\app_init.h)(0x518BFA58)()
+F (src\events.c)(0x5545B60A)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork -Isrc\mcu_init\cpu -Isrc\mcu_init\drivers\uart -Isrc\mcu_init\drivers\wdog -Isrc\module_id -Isrc\frdmkl25z48m -Iinclude\gui\source\src_common -Iinclude\gui\source\src_platforms\Kxx -Iinclude\lib\shared -Iinclude\lib\lib_uv4 -Isrc\mcu_init\common -Isrc\mcu_init\platforms -Isrc\mcu_init\drivers\mcg -Iinclude -Isrc-I C:\Keil\v474\ARM\RV31\INC-I C:\Keil\v474\ARM\CMSIS\Include-I C:\Keil\v474\ARM\Inc\Freescale\Kinetis-DFREEDOM -DFRDM_KL25Z48-o .\output\events.o --omf_browse .\output\events.crf --depend .\output\events.d)
+I (include\lib\shared\TSS_API.h)(0x51F65C3C)
+I (src\frdmkl25z48m\TSS_SystemSetup.h)(0x51BF5EB2)
+I (src\TSS_SystemSetupGlobal.h)(0x521653EE)
+I (include\lib\shared\TSS_StatusCodes.h)(0x51F65C3E)
+I (include\lib\shared\TSS_DataTypes.h)(0x520CFE66)
+I (C:\Keil\v474\ARM\ARMCC\include\stdint.h)(0x51C88A34)
+I (include\lib\shared\TSS_Sensor.h)(0x520A7230)
+I (src\frdmkl25z48m\derivative.h)(0x518BFA58)
+I (src\frdmkl25z48m\MKL25Z4.h)(0x55458EC0)
+I (src\mcu_init\cpu\arm_cm0.h)(0x50F6094E)
+I (src\frdmkl25z48m\board.h)(0x518BFA58)
+I (src\app_init.h)(0x518BFA58)
+I (src\events.h)(0x518BFA58)
+F (src\events.h)(0x518BFA58)()
+F (include\gui\source\src_common\freemaster_appcmd.c)(0x50F60A58)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork -Isrc\mcu_init\cpu -Isrc\mcu_init\drivers\uart -Isrc\mcu_init\drivers\wdog -Isrc\module_id -Isrc\frdmkl25z48m -Iinclude\gui\source\src_common -Iinclude\gui\source\src_platforms\Kxx -Iinclude\lib\shared -Iinclude\lib\lib_uv4 -Isrc\mcu_init\common -Isrc\mcu_init\platforms -Isrc\mcu_init\drivers\mcg -Iinclude -Isrc-I C:\Keil\v474\ARM\RV31\INC-I C:\Keil\v474\ARM\CMSIS\Include-I C:\Keil\v474\ARM\Inc\Freescale\Kinetis-DFREEDOM -DFRDM_KL25Z48-o .\output\freemaster_appcmd.o --omf_browse .\output\freemaster_appcmd.crf --depend .\output\freemaster_appcmd.d)
+I (include\gui\source\src_platforms\Kxx\freemaster.h)(0x51827F6C)
+I (include\gui\source\src_common\freemaster_defcfg.h)(0x50F60A5A)
+I (src\freemaster_cfg.h)(0x5545B585)
+I (src\frdmkl25z48m\board.h)(0x518BFA58)
+I (src\frdmkl25z48m\derivative.h)(0x518BFA58)
+I (src\frdmkl25z48m\MKL25Z4.h)(0x55458EC0)
+I (C:\Keil\v474\ARM\ARMCC\include\stdint.h)(0x51C88A34)
+I (src\mcu_init\cpu\arm_cm0.h)(0x50F6094E)
+I (include\gui\source\src_common\freemaster_tsa.h)(0x51827F6C)
+I (include\gui\source\src_common\freemaster_private.h)(0x50F60A58)
+I (include\gui\source\src_platforms\Kxx\freemaster_Kxx.h)(0x50F60A5A)
+I (include\gui\source\src_common\freemaster_protocol.h)(0x50F60A58)
+F (include\gui\source\src_common\freemaster_bdm.c)(0x50F60A58)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork -Isrc\mcu_init\cpu -Isrc\mcu_init\drivers\uart -Isrc\mcu_init\drivers\wdog -Isrc\module_id -Isrc\frdmkl25z48m -Iinclude\gui\source\src_common -Iinclude\gui\source\src_platforms\Kxx -Iinclude\lib\shared -Iinclude\lib\lib_uv4 -Isrc\mcu_init\common -Isrc\mcu_init\platforms -Isrc\mcu_init\drivers\mcg -Iinclude -Isrc-I C:\Keil\v474\ARM\RV31\INC-I C:\Keil\v474\ARM\CMSIS\Include-I C:\Keil\v474\ARM\Inc\Freescale\Kinetis-DFREEDOM -DFRDM_KL25Z48-o .\output\freemaster_bdm.o --omf_browse .\output\freemaster_bdm.crf --depend .\output\freemaster_bdm.d)
+I (include\gui\source\src_platforms\Kxx\freemaster.h)(0x51827F6C)
+I (include\gui\source\src_common\freemaster_defcfg.h)(0x50F60A5A)
+I (src\freemaster_cfg.h)(0x5545B585)
+I (src\frdmkl25z48m\board.h)(0x518BFA58)
+I (src\frdmkl25z48m\derivative.h)(0x518BFA58)
+I (src\frdmkl25z48m\MKL25Z4.h)(0x55458EC0)
+I (C:\Keil\v474\ARM\ARMCC\include\stdint.h)(0x51C88A34)
+I (src\mcu_init\cpu\arm_cm0.h)(0x50F6094E)
+I (include\gui\source\src_common\freemaster_tsa.h)(0x51827F6C)
+I (include\gui\source\src_common\freemaster_private.h)(0x50F60A58)
+I (include\gui\source\src_platforms\Kxx\freemaster_Kxx.h)(0x50F60A5A)
+I (include\gui\source\src_common\freemaster_protocol.h)(0x50F60A58)
+F (include\gui\source\src_common\freemaster_can.c)(0x50F60A58)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork -Isrc\mcu_init\cpu -Isrc\mcu_init\drivers\uart -Isrc\mcu_init\drivers\wdog -Isrc\module_id -Isrc\frdmkl25z48m -Iinclude\gui\source\src_common -Iinclude\gui\source\src_platforms\Kxx -Iinclude\lib\shared -Iinclude\lib\lib_uv4 -Isrc\mcu_init\common -Isrc\mcu_init\platforms -Isrc\mcu_init\drivers\mcg -Iinclude -Isrc-I C:\Keil\v474\ARM\RV31\INC-I C:\Keil\v474\ARM\CMSIS\Include-I C:\Keil\v474\ARM\Inc\Freescale\Kinetis-DFREEDOM -DFRDM_KL25Z48-o .\output\freemaster_can.o --omf_browse .\output\freemaster_can.crf --depend .\output\freemaster_can.d)
+I (include\gui\source\src_platforms\Kxx\freemaster.h)(0x51827F6C)
+I (include\gui\source\src_common\freemaster_defcfg.h)(0x50F60A5A)
+I (src\freemaster_cfg.h)(0x5545B585)
+I (src\frdmkl25z48m\board.h)(0x518BFA58)
+I (src\frdmkl25z48m\derivative.h)(0x518BFA58)
+I (src\frdmkl25z48m\MKL25Z4.h)(0x55458EC0)
+I (C:\Keil\v474\ARM\ARMCC\include\stdint.h)(0x51C88A34)
+I (src\mcu_init\cpu\arm_cm0.h)(0x50F6094E)
+I (include\gui\source\src_common\freemaster_tsa.h)(0x51827F6C)
+I (include\gui\source\src_common\freemaster_private.h)(0x50F60A58)
+I (include\gui\source\src_platforms\Kxx\freemaster_Kxx.h)(0x50F60A5A)
+I (include\gui\source\src_common\freemaster_protocol.h)(0x50F60A58)
+F (include\gui\source\src_common\freemaster_private.h)(0x50F60A58)()
+F (include\gui\source\src_common\freemaster_protocol.c)(0x51AF2824)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork -Isrc\mcu_init\cpu -Isrc\mcu_init\drivers\uart -Isrc\mcu_init\drivers\wdog -Isrc\module_id -Isrc\frdmkl25z48m -Iinclude\gui\source\src_common -Iinclude\gui\source\src_platforms\Kxx -Iinclude\lib\shared -Iinclude\lib\lib_uv4 -Isrc\mcu_init\common -Isrc\mcu_init\platforms -Isrc\mcu_init\drivers\mcg -Iinclude -Isrc-I C:\Keil\v474\ARM\RV31\INC-I C:\Keil\v474\ARM\CMSIS\Include-I C:\Keil\v474\ARM\Inc\Freescale\Kinetis-DFREEDOM -DFRDM_KL25Z48-o .\output\freemaster_protocol.o --omf_browse .\output\freemaster_protocol.crf --depend .\output\freemaster_protocol.d)
+I (include\gui\source\src_platforms\Kxx\freemaster.h)(0x51827F6C)
+I (include\gui\source\src_common\freemaster_defcfg.h)(0x50F60A5A)
+I (src\freemaster_cfg.h)(0x5545B585)
+I (src\frdmkl25z48m\board.h)(0x518BFA58)
+I (src\frdmkl25z48m\derivative.h)(0x518BFA58)
+I (src\frdmkl25z48m\MKL25Z4.h)(0x55458EC0)
+I (C:\Keil\v474\ARM\ARMCC\include\stdint.h)(0x51C88A34)
+I (src\mcu_init\cpu\arm_cm0.h)(0x50F6094E)
+I (include\gui\source\src_common\freemaster_tsa.h)(0x51827F6C)
+I (include\gui\source\src_common\freemaster_private.h)(0x50F60A58)
+I (include\gui\source\src_platforms\Kxx\freemaster_Kxx.h)(0x50F60A5A)
+I (include\gui\source\src_common\freemaster_protocol.h)(0x50F60A58)
+F (include\gui\source\src_common\freemaster_protocol.h)(0x50F60A58)()
+F (include\gui\source\src_common\freemaster_rec.c)(0x50F60A58)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork -Isrc\mcu_init\cpu -Isrc\mcu_init\drivers\uart -Isrc\mcu_init\drivers\wdog -Isrc\module_id -Isrc\frdmkl25z48m -Iinclude\gui\source\src_common -Iinclude\gui\source\src_platforms\Kxx -Iinclude\lib\shared -Iinclude\lib\lib_uv4 -Isrc\mcu_init\common -Isrc\mcu_init\platforms -Isrc\mcu_init\drivers\mcg -Iinclude -Isrc-I C:\Keil\v474\ARM\RV31\INC-I C:\Keil\v474\ARM\CMSIS\Include-I C:\Keil\v474\ARM\Inc\Freescale\Kinetis-DFREEDOM -DFRDM_KL25Z48-o .\output\freemaster_rec.o --omf_browse .\output\freemaster_rec.crf --depend .\output\freemaster_rec.d)
+I (include\gui\source\src_platforms\Kxx\freemaster.h)(0x51827F6C)
+I (include\gui\source\src_common\freemaster_defcfg.h)(0x50F60A5A)
+I (src\freemaster_cfg.h)(0x5545B585)
+I (src\frdmkl25z48m\board.h)(0x518BFA58)
+I (src\frdmkl25z48m\derivative.h)(0x518BFA58)
+I (src\frdmkl25z48m\MKL25Z4.h)(0x55458EC0)
+I (C:\Keil\v474\ARM\ARMCC\include\stdint.h)(0x51C88A34)
+I (src\mcu_init\cpu\arm_cm0.h)(0x50F6094E)
+I (include\gui\source\src_common\freemaster_tsa.h)(0x51827F6C)
+I (include\gui\source\src_common\freemaster_private.h)(0x50F60A58)
+I (include\gui\source\src_platforms\Kxx\freemaster_Kxx.h)(0x50F60A5A)
+I (include\gui\source\src_common\freemaster_protocol.h)(0x50F60A58)
+F (include\gui\source\src_common\freemaster_rec.h)(0x50F60A58)()
+F (include\gui\source\src_common\freemaster_scope.c)(0x50F60A58)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork -Isrc\mcu_init\cpu -Isrc\mcu_init\drivers\uart -Isrc\mcu_init\drivers\wdog -Isrc\module_id -Isrc\frdmkl25z48m -Iinclude\gui\source\src_common -Iinclude\gui\source\src_platforms\Kxx -Iinclude\lib\shared -Iinclude\lib\lib_uv4 -Isrc\mcu_init\common -Isrc\mcu_init\platforms -Isrc\mcu_init\drivers\mcg -Iinclude -Isrc-I C:\Keil\v474\ARM\RV31\INC-I C:\Keil\v474\ARM\CMSIS\Include-I C:\Keil\v474\ARM\Inc\Freescale\Kinetis-DFREEDOM -DFRDM_KL25Z48-o .\output\freemaster_scope.o --omf_browse .\output\freemaster_scope.crf --depend .\output\freemaster_scope.d)
+I (include\gui\source\src_platforms\Kxx\freemaster.h)(0x51827F6C)
+I (include\gui\source\src_common\freemaster_defcfg.h)(0x50F60A5A)
+I (src\freemaster_cfg.h)(0x5545B585)
+I (src\frdmkl25z48m\board.h)(0x518BFA58)
+I (src\frdmkl25z48m\derivative.h)(0x518BFA58)
+I (src\frdmkl25z48m\MKL25Z4.h)(0x55458EC0)
+I (C:\Keil\v474\ARM\ARMCC\include\stdint.h)(0x51C88A34)
+I (src\mcu_init\cpu\arm_cm0.h)(0x50F6094E)
+I (include\gui\source\src_common\freemaster_tsa.h)(0x51827F6C)
+I (include\gui\source\src_common\freemaster_private.h)(0x50F60A58)
+I (include\gui\source\src_platforms\Kxx\freemaster_Kxx.h)(0x50F60A5A)
+I (include\gui\source\src_common\freemaster_protocol.h)(0x50F60A58)
+F (include\gui\source\src_common\freemaster_serial.c)(0x50F60A5A)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork -Isrc\mcu_init\cpu -Isrc\mcu_init\drivers\uart -Isrc\mcu_init\drivers\wdog -Isrc\module_id -Isrc\frdmkl25z48m -Iinclude\gui\source\src_common -Iinclude\gui\source\src_platforms\Kxx -Iinclude\lib\shared -Iinclude\lib\lib_uv4 -Isrc\mcu_init\common -Isrc\mcu_init\platforms -Isrc\mcu_init\drivers\mcg -Iinclude -Isrc-I C:\Keil\v474\ARM\RV31\INC-I C:\Keil\v474\ARM\CMSIS\Include-I C:\Keil\v474\ARM\Inc\Freescale\Kinetis-DFREEDOM -DFRDM_KL25Z48-o .\output\freemaster_serial.o --omf_browse .\output\freemaster_serial.crf --depend .\output\freemaster_serial.d)
+I (include\gui\source\src_platforms\Kxx\freemaster.h)(0x51827F6C)
+I (include\gui\source\src_common\freemaster_defcfg.h)(0x50F60A5A)
+I (src\freemaster_cfg.h)(0x5545B585)
+I (src\frdmkl25z48m\board.h)(0x518BFA58)
+I (src\frdmkl25z48m\derivative.h)(0x518BFA58)
+I (src\frdmkl25z48m\MKL25Z4.h)(0x55458EC0)
+I (C:\Keil\v474\ARM\ARMCC\include\stdint.h)(0x51C88A34)
+I (src\mcu_init\cpu\arm_cm0.h)(0x50F6094E)
+I (include\gui\source\src_common\freemaster_tsa.h)(0x51827F6C)
+I (include\gui\source\src_common\freemaster_private.h)(0x50F60A58)
+I (include\gui\source\src_platforms\Kxx\freemaster_Kxx.h)(0x50F60A5A)
+I (include\gui\source\src_common\freemaster_protocol.h)(0x50F60A58)
+F (include\gui\source\src_common\freemaster_tsa.c)(0x50F60A5A)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork -Isrc\mcu_init\cpu -Isrc\mcu_init\drivers\uart -Isrc\mcu_init\drivers\wdog -Isrc\module_id -Isrc\frdmkl25z48m -Iinclude\gui\source\src_common -Iinclude\gui\source\src_platforms\Kxx -Iinclude\lib\shared -Iinclude\lib\lib_uv4 -Isrc\mcu_init\common -Isrc\mcu_init\platforms -Isrc\mcu_init\drivers\mcg -Iinclude -Isrc-I C:\Keil\v474\ARM\RV31\INC-I C:\Keil\v474\ARM\CMSIS\Include-I C:\Keil\v474\ARM\Inc\Freescale\Kinetis-DFREEDOM -DFRDM_KL25Z48-o .\output\freemaster_tsa.o --omf_browse .\output\freemaster_tsa.crf --depend .\output\freemaster_tsa.d)
+I (include\gui\source\src_platforms\Kxx\freemaster.h)(0x51827F6C)
+I (include\gui\source\src_common\freemaster_defcfg.h)(0x50F60A5A)
+I (src\freemaster_cfg.h)(0x5545B585)
+I (src\frdmkl25z48m\board.h)(0x518BFA58)
+I (src\frdmkl25z48m\derivative.h)(0x518BFA58)
+I (src\frdmkl25z48m\MKL25Z4.h)(0x55458EC0)
+I (C:\Keil\v474\ARM\ARMCC\include\stdint.h)(0x51C88A34)
+I (src\mcu_init\cpu\arm_cm0.h)(0x50F6094E)
+I (include\gui\source\src_common\freemaster_tsa.h)(0x51827F6C)
+I (include\gui\source\src_common\freemaster_private.h)(0x50F60A58)
+I (include\gui\source\src_platforms\Kxx\freemaster_Kxx.h)(0x50F60A5A)
+I (include\gui\source\src_common\freemaster_protocol.h)(0x50F60A58)
+F (include\gui\source\src_platforms\Kxx\freemaster.h)(0x51827F6C)()
+F (include\gui\source\src_platforms\Kxx\freemaster_Kxx.c)(0x51962CEC)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork -Isrc\mcu_init\cpu -Isrc\mcu_init\drivers\uart -Isrc\mcu_init\drivers\wdog -Isrc\module_id -Isrc\frdmkl25z48m -Iinclude\gui\source\src_common -Iinclude\gui\source\src_platforms\Kxx -Iinclude\lib\shared -Iinclude\lib\lib_uv4 -Isrc\mcu_init\common -Isrc\mcu_init\platforms -Isrc\mcu_init\drivers\mcg -Iinclude -Isrc-I C:\Keil\v474\ARM\RV31\INC-I C:\Keil\v474\ARM\CMSIS\Include-I C:\Keil\v474\ARM\Inc\Freescale\Kinetis-DFREEDOM -DFRDM_KL25Z48-o .\output\freemaster_kxx.o --omf_browse .\output\freemaster_kxx.crf --depend .\output\freemaster_kxx.d)
+I (include\gui\source\src_platforms\Kxx\freemaster.h)(0x51827F6C)
+I (include\gui\source\src_common\freemaster_defcfg.h)(0x50F60A5A)
+I (src\freemaster_cfg.h)(0x5545B585)
+I (src\frdmkl25z48m\board.h)(0x518BFA58)
+I (src\frdmkl25z48m\derivative.h)(0x518BFA58)
+I (src\frdmkl25z48m\MKL25Z4.h)(0x55458EC0)
+I (C:\Keil\v474\ARM\ARMCC\include\stdint.h)(0x51C88A34)
+I (src\mcu_init\cpu\arm_cm0.h)(0x50F6094E)
+I (include\gui\source\src_common\freemaster_tsa.h)(0x51827F6C)
+I (include\gui\source\src_common\freemaster_private.h)(0x50F60A58)
+I (include\gui\source\src_platforms\Kxx\freemaster_Kxx.h)(0x50F60A5A)
+F (include\gui\source\src_platforms\Kxx\freemaster_Kxx.h)(0x50F60A5A)()
+F (src\mcu_init\common\common.h)(0x519629A6)()
+F (src\mcu_init\cpu\arm_cm0.c)(0x50F6094E)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork -Isrc\mcu_init\cpu -Isrc\mcu_init\drivers\uart -Isrc\mcu_init\drivers\wdog -Isrc\module_id -Isrc\frdmkl25z48m -Iinclude\gui\source\src_common -Iinclude\gui\source\src_platforms\Kxx -Iinclude\lib\shared -Iinclude\lib\lib_uv4 -Isrc\mcu_init\common -Isrc\mcu_init\platforms -Isrc\mcu_init\drivers\mcg -Iinclude -Isrc-I C:\Keil\v474\ARM\RV31\INC-I C:\Keil\v474\ARM\CMSIS\Include-I C:\Keil\v474\ARM\Inc\Freescale\Kinetis-DFREEDOM -DFRDM_KL25Z48-o .\output\arm_cm0.o --omf_browse .\output\arm_cm0.crf --depend .\output\arm_cm0.d)
+I (src\frdmkl25z48m\derivative.h)(0x518BFA58)
+I (src\frdmkl25z48m\MKL25Z4.h)(0x55458EC0)
+I (C:\Keil\v474\ARM\ARMCC\include\stdint.h)(0x51C88A34)
+I (src\mcu_init\cpu\arm_cm0.h)(0x50F6094E)
+F (src\mcu_init\cpu\arm_cm0.h)(0x50F6094E)()
+F (src\mcu_init\cpu\sysinit.h)(0x50F60950)()
+F (src\mcu_init\drivers\wdog\wdog.h)(0x50F60950)()
+F (src\mcu_init\cpu\sysinit_kl25.c)(0x51962A0E)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork -Isrc\mcu_init\cpu -Isrc\mcu_init\drivers\uart -Isrc\mcu_init\drivers\wdog -Isrc\module_id -Isrc\frdmkl25z48m -Iinclude\gui\source\src_common -Iinclude\gui\source\src_platforms\Kxx -Iinclude\lib\shared -Iinclude\lib\lib_uv4 -Isrc\mcu_init\common -Isrc\mcu_init\platforms -Isrc\mcu_init\drivers\mcg -Iinclude -Isrc-I C:\Keil\v474\ARM\RV31\INC-I C:\Keil\v474\ARM\CMSIS\Include-I C:\Keil\v474\ARM\Inc\Freescale\Kinetis-DFREEDOM -DFRDM_KL25Z48-o .\output\sysinit_kl25.o --omf_browse .\output\sysinit_kl25.crf --depend .\output\sysinit_kl25.d)
+I (src\mcu_init\common\common.h)(0x519629A6)
+I (src\frdmkl25z48m\derivative.h)(0x518BFA58)
+I (src\frdmkl25z48m\MKL25Z4.h)(0x55458EC0)
+I (C:\Keil\v474\ARM\ARMCC\include\stdint.h)(0x51C88A34)
+I (src\mcu_init\cpu\arm_cm0.h)(0x50F6094E)
+I (src\frdmkl25z48m\board.h)(0x518BFA58)
+I (src\mcu_init\drivers\mcg\mcg_kl25.h)(0x50F60950)
+I (src\mcu_init\common\startup.h)(0x50F6094E)
+I (C:\Keil\v474\ARM\ARMCC\include\stdlib.h)(0x51C88A34)
+I (src\mcu_init\cpu\sysinit.h)(0x50F60950)
+I (src\mcu_init\drivers\uart\uart_kl25.h)(0x51954C0C)
+F (src\mcu_init\drivers\mcg\mcg_kl25.c)(0x50F60950)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork -Isrc\mcu_init\cpu -Isrc\mcu_init\drivers\uart -Isrc\mcu_init\drivers\wdog -Isrc\module_id -Isrc\frdmkl25z48m -Iinclude\gui\source\src_common -Iinclude\gui\source\src_platforms\Kxx -Iinclude\lib\shared -Iinclude\lib\lib_uv4 -Isrc\mcu_init\common -Isrc\mcu_init\platforms -Isrc\mcu_init\drivers\mcg -Iinclude -Isrc-I C:\Keil\v474\ARM\RV31\INC-I C:\Keil\v474\ARM\CMSIS\Include-I C:\Keil\v474\ARM\Inc\Freescale\Kinetis-DFREEDOM -DFRDM_KL25Z48-o .\output\mcg_kl25.o --omf_browse .\output\mcg_kl25.crf --depend .\output\mcg_kl25.d)
+I (src\mcu_init\common\common.h)(0x519629A6)
+I (src\frdmkl25z48m\derivative.h)(0x518BFA58)
+I (src\frdmkl25z48m\MKL25Z4.h)(0x55458EC0)
+I (C:\Keil\v474\ARM\ARMCC\include\stdint.h)(0x51C88A34)
+I (src\mcu_init\cpu\arm_cm0.h)(0x50F6094E)
+I (src\frdmkl25z48m\board.h)(0x518BFA58)
+I (src\mcu_init\drivers\mcg\mcg_kl25.h)(0x50F60950)
+I (src\mcu_init\common\startup.h)(0x50F6094E)
+I (C:\Keil\v474\ARM\ARMCC\include\stdlib.h)(0x51C88A34)
+F (src\mcu_init\drivers\wdog\wdog_kl25.c)(0x50F60950)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork -Isrc\mcu_init\cpu -Isrc\mcu_init\drivers\uart -Isrc\mcu_init\drivers\wdog -Isrc\module_id -Isrc\frdmkl25z48m -Iinclude\gui\source\src_common -Iinclude\gui\source\src_platforms\Kxx -Iinclude\lib\shared -Iinclude\lib\lib_uv4 -Isrc\mcu_init\common -Isrc\mcu_init\platforms -Isrc\mcu_init\drivers\mcg -Iinclude -Isrc-I C:\Keil\v474\ARM\RV31\INC-I C:\Keil\v474\ARM\CMSIS\Include-I C:\Keil\v474\ARM\Inc\Freescale\Kinetis-DFREEDOM -DFRDM_KL25Z48-o .\output\wdog_kl25.o --omf_browse .\output\wdog_kl25.crf --depend .\output\wdog_kl25.d)
+I (src\frdmkl25z48m\derivative.h)(0x518BFA58)
+I (src\frdmkl25z48m\MKL25Z4.h)(0x55458EC0)
+I (C:\Keil\v474\ARM\ARMCC\include\stdint.h)(0x51C88A34)
+I (src\mcu_init\cpu\arm_cm0.h)(0x50F6094E)
+I (src\mcu_init\drivers\wdog\wdog.h)(0x50F60950)
+F (src\mcu_init\drivers\mcg\mcg_kl25.h)(0x50F60950)()
+F (src\mcu_init\drivers\uart\uart_kl25.c)(0x51954A90)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork -Isrc\mcu_init\cpu -Isrc\mcu_init\drivers\uart -Isrc\mcu_init\drivers\wdog -Isrc\module_id -Isrc\frdmkl25z48m -Iinclude\gui\source\src_common -Iinclude\gui\source\src_platforms\Kxx -Iinclude\lib\shared -Iinclude\lib\lib_uv4 -Isrc\mcu_init\common -Isrc\mcu_init\platforms -Isrc\mcu_init\drivers\mcg -Iinclude -Isrc-I C:\Keil\v474\ARM\RV31\INC-I C:\Keil\v474\ARM\CMSIS\Include-I C:\Keil\v474\ARM\Inc\Freescale\Kinetis-DFREEDOM -DFRDM_KL25Z48-o .\output\uart_kl25.o --omf_browse .\output\uart_kl25.crf --depend .\output\uart_kl25.d)
+I (src\frdmkl25z48m\derivative.h)(0x518BFA58)
+I (src\frdmkl25z48m\MKL25Z4.h)(0x55458EC0)
+I (C:\Keil\v474\ARM\ARMCC\include\stdint.h)(0x51C88A34)
+I (src\mcu_init\cpu\arm_cm0.h)(0x50F6094E)
+I (src\mcu_init\drivers\uart\uart_kl25.h)(0x51954C0C)
+F (src\mcu_init\drivers\uart\uart_kl25.h)(0x51954C0C)()
+F (include\lib\shared\TSS_API.h)(0x51F65C3C)()
+F (include\lib\shared\TSS_DataTypes.h)(0x520CFE66)()
+F (include\lib\shared\TSS_Freemaster.c)(0x51F65C3E)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork -Isrc\mcu_init\cpu -Isrc\mcu_init\drivers\uart -Isrc\mcu_init\drivers\wdog -Isrc\module_id -Isrc\frdmkl25z48m -Iinclude\gui\source\src_common -Iinclude\gui\source\src_platforms\Kxx -Iinclude\lib\shared -Iinclude\lib\lib_uv4 -Isrc\mcu_init\common -Isrc\mcu_init\platforms -Isrc\mcu_init\drivers\mcg -Iinclude -Isrc-I C:\Keil\v474\ARM\RV31\INC-I C:\Keil\v474\ARM\CMSIS\Include-I C:\Keil\v474\ARM\Inc\Freescale\Kinetis-DFREEDOM -DFRDM_KL25Z48-o .\output\tss_freemaster.o --omf_browse .\output\tss_freemaster.crf --depend .\output\tss_freemaster.d)
+I (include\lib\shared\TSS_API.h)(0x51F65C3C)
+I (src\frdmkl25z48m\TSS_SystemSetup.h)(0x51BF5EB2)
+I (src\TSS_SystemSetupGlobal.h)(0x521653EE)
+I (include\lib\shared\TSS_StatusCodes.h)(0x51F65C3E)
+I (include\lib\shared\TSS_DataTypes.h)(0x520CFE66)
+I (C:\Keil\v474\ARM\ARMCC\include\stdint.h)(0x51C88A34)
+I (include\lib\shared\TSS_Sensor.h)(0x520A7230)
+I (src\frdmkl25z48m\derivative.h)(0x518BFA58)
+I (src\frdmkl25z48m\MKL25Z4.h)(0x55458EC0)
+I (src\mcu_init\cpu\arm_cm0.h)(0x50F6094E)
+I (include\gui\source\src_platforms\Kxx\freemaster.h)(0x51827F6C)
+I (include\gui\source\src_common\freemaster_defcfg.h)(0x50F60A5A)
+I (src\freemaster_cfg.h)(0x5545B585)
+I (src\frdmkl25z48m\board.h)(0x518BFA58)
+I (include\gui\source\src_common\freemaster_tsa.h)(0x51827F6C)
+F (include\lib\shared\TSS_GPIO.h)(0x5148DC3A)()
+F (include\lib\shared\TSS_Sensor.c)(0x514B444E)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork -Isrc\mcu_init\cpu -Isrc\mcu_init\drivers\uart -Isrc\mcu_init\drivers\wdog -Isrc\module_id -Isrc\frdmkl25z48m -Iinclude\gui\source\src_common -Iinclude\gui\source\src_platforms\Kxx -Iinclude\lib\shared -Iinclude\lib\lib_uv4 -Isrc\mcu_init\common -Isrc\mcu_init\platforms -Isrc\mcu_init\drivers\mcg -Iinclude -Isrc-I C:\Keil\v474\ARM\RV31\INC-I C:\Keil\v474\ARM\CMSIS\Include-I C:\Keil\v474\ARM\Inc\Freescale\Kinetis-DFREEDOM -DFRDM_KL25Z48-o .\output\tss_sensor.o --omf_browse .\output\tss_sensor.crf --depend .\output\tss_sensor.d)
+I (include\lib\shared\TSS_SensorGPIO.h)(0x51FFE5AA)
+I (include\lib\shared\TSS_Sensor.h)(0x520A7230)
+I (src\frdmkl25z48m\derivative.h)(0x518BFA58)
+I (src\frdmkl25z48m\MKL25Z4.h)(0x55458EC0)
+I (C:\Keil\v474\ARM\ARMCC\include\stdint.h)(0x51C88A34)
+I (src\mcu_init\cpu\arm_cm0.h)(0x50F6094E)
+I (include\lib\shared\TSS_API.h)(0x51F65C3C)
+I (src\frdmkl25z48m\TSS_SystemSetup.h)(0x51BF5EB2)
+I (src\TSS_SystemSetupGlobal.h)(0x521653EE)
+I (include\lib\shared\TSS_StatusCodes.h)(0x51F65C3E)
+I (include\lib\shared\TSS_DataTypes.h)(0x520CFE66)
+I (include\lib\shared\TSS_SensorTSI.h)(0x51AF2588)
+I (include\lib\shared\TSS_SensorTSIL.h)(0x51F65C3E)
+F (include\lib\shared\TSS_Sensor.h)(0x520A7230)()
+F (include\lib\shared\TSS_SensorGPIO.c)(0x51FFE5AA)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork -Isrc\mcu_init\cpu -Isrc\mcu_init\drivers\uart -Isrc\mcu_init\drivers\wdog -Isrc\module_id -Isrc\frdmkl25z48m -Iinclude\gui\source\src_common -Iinclude\gui\source\src_platforms\Kxx -Iinclude\lib\shared -Iinclude\lib\lib_uv4 -Isrc\mcu_init\common -Isrc\mcu_init\platforms -Isrc\mcu_init\drivers\mcg -Iinclude -Isrc-I C:\Keil\v474\ARM\RV31\INC-I C:\Keil\v474\ARM\CMSIS\Include-I C:\Keil\v474\ARM\Inc\Freescale\Kinetis-DFREEDOM -DFRDM_KL25Z48-o .\output\tss_sensorgpio.o --omf_browse .\output\tss_sensorgpio.crf --depend .\output\tss_sensorgpio.d)
+I (include\lib\shared\TSS_SensorGPIO.h)(0x51FFE5AA)
+I (include\lib\shared\TSS_Sensor.h)(0x520A7230)
+I (src\frdmkl25z48m\derivative.h)(0x518BFA58)
+I (src\frdmkl25z48m\MKL25Z4.h)(0x55458EC0)
+I (C:\Keil\v474\ARM\ARMCC\include\stdint.h)(0x51C88A34)
+I (src\mcu_init\cpu\arm_cm0.h)(0x50F6094E)
+I (include\lib\shared\TSS_API.h)(0x51F65C3C)
+I (src\frdmkl25z48m\TSS_SystemSetup.h)(0x51BF5EB2)
+I (src\TSS_SystemSetupGlobal.h)(0x521653EE)
+I (include\lib\shared\TSS_StatusCodes.h)(0x51F65C3E)
+I (include\lib\shared\TSS_DataTypes.h)(0x520CFE66)
+F (include\lib\shared\TSS_SensorGPIO.h)(0x51FFE5AA)()
+F (include\lib\shared\TSS_SensorTSI.c)(0x51F6C62E)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork -Isrc\mcu_init\cpu -Isrc\mcu_init\drivers\uart -Isrc\mcu_init\drivers\wdog -Isrc\module_id -Isrc\frdmkl25z48m -Iinclude\gui\source\src_common -Iinclude\gui\source\src_platforms\Kxx -Iinclude\lib\shared -Iinclude\lib\lib_uv4 -Isrc\mcu_init\common -Isrc\mcu_init\platforms -Isrc\mcu_init\drivers\mcg -Iinclude -Isrc-I C:\Keil\v474\ARM\RV31\INC-I C:\Keil\v474\ARM\CMSIS\Include-I C:\Keil\v474\ARM\Inc\Freescale\Kinetis-DFREEDOM -DFRDM_KL25Z48-o .\output\tss_sensortsi.o --omf_browse .\output\tss_sensortsi.crf --depend .\output\tss_sensortsi.d)
+I (include\lib\shared\TSS_SensorTSI.h)(0x51AF2588)
+I (include\lib\shared\TSS_Sensor.h)(0x520A7230)
+I (src\frdmkl25z48m\derivative.h)(0x518BFA58)
+I (src\frdmkl25z48m\MKL25Z4.h)(0x55458EC0)
+I (C:\Keil\v474\ARM\ARMCC\include\stdint.h)(0x51C88A34)
+I (src\mcu_init\cpu\arm_cm0.h)(0x50F6094E)
+I (include\lib\shared\TSS_API.h)(0x51F65C3C)
+I (src\frdmkl25z48m\TSS_SystemSetup.h)(0x51BF5EB2)
+I (src\TSS_SystemSetupGlobal.h)(0x521653EE)
+I (include\lib\shared\TSS_StatusCodes.h)(0x51F65C3E)
+I (include\lib\shared\TSS_DataTypes.h)(0x520CFE66)
+F (include\lib\shared\TSS_SensorTSI.h)(0x51AF2588)()
+F (include\lib\shared\TSS_SensorTSIL.c)(0x51F65C3E)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork -Isrc\mcu_init\cpu -Isrc\mcu_init\drivers\uart -Isrc\mcu_init\drivers\wdog -Isrc\module_id -Isrc\frdmkl25z48m -Iinclude\gui\source\src_common -Iinclude\gui\source\src_platforms\Kxx -Iinclude\lib\shared -Iinclude\lib\lib_uv4 -Isrc\mcu_init\common -Isrc\mcu_init\platforms -Isrc\mcu_init\drivers\mcg -Iinclude -Isrc-I C:\Keil\v474\ARM\RV31\INC-I C:\Keil\v474\ARM\CMSIS\Include-I C:\Keil\v474\ARM\Inc\Freescale\Kinetis-DFREEDOM -DFRDM_KL25Z48-o .\output\tss_sensortsil.o --omf_browse .\output\tss_sensortsil.crf --depend .\output\tss_sensortsil.d)
+I (include\lib\shared\TSS_SensorTSIL.h)(0x51F65C3E)
+I (include\lib\shared\TSS_Sensor.h)(0x520A7230)
+I (src\frdmkl25z48m\derivative.h)(0x518BFA58)
+I (src\frdmkl25z48m\MKL25Z4.h)(0x55458EC0)
+I (C:\Keil\v474\ARM\ARMCC\include\stdint.h)(0x51C88A34)
+I (src\mcu_init\cpu\arm_cm0.h)(0x50F6094E)
+I (include\lib\shared\TSS_API.h)(0x51F65C3C)
+I (src\frdmkl25z48m\TSS_SystemSetup.h)(0x51BF5EB2)
+I (src\TSS_SystemSetupGlobal.h)(0x521653EE)
+I (include\lib\shared\TSS_StatusCodes.h)(0x51F65C3E)
+I (include\lib\shared\TSS_DataTypes.h)(0x520CFE66)
+I (include\lib\shared\TSS_SensorTSIL_def.h)(0x51C9F5F0)
+F (include\lib\shared\TSS_SensorTSIL.h)(0x51F65C3E)()
+F (include\lib\shared\TSS_StatusCodes.h)(0x51F65C3E)()
+F (include\lib\shared\TSS_SystemSetupData.c)(0x520CFE86)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork -Isrc\mcu_init\cpu -Isrc\mcu_init\drivers\uart -Isrc\mcu_init\drivers\wdog -Isrc\module_id -Isrc\frdmkl25z48m -Iinclude\gui\source\src_common -Iinclude\gui\source\src_platforms\Kxx -Iinclude\lib\shared -Iinclude\lib\lib_uv4 -Isrc\mcu_init\common -Isrc\mcu_init\platforms -Isrc\mcu_init\drivers\mcg -Iinclude -Isrc-I C:\Keil\v474\ARM\RV31\INC-I C:\Keil\v474\ARM\CMSIS\Include-I C:\Keil\v474\ARM\Inc\Freescale\Kinetis-DFREEDOM -DFRDM_KL25Z48-o .\output\tss_systemsetupdata.o --omf_browse .\output\tss_systemsetupdata.crf --depend .\output\tss_systemsetupdata.d)
+I (src\frdmkl25z48m\TSS_SystemSetup.h)(0x51BF5EB2)
+I (src\TSS_SystemSetupGlobal.h)(0x521653EE)
+I (include\lib\shared\TSS_API.h)(0x51F65C3C)
+I (include\lib\shared\TSS_StatusCodes.h)(0x51F65C3E)
+I (include\lib\shared\TSS_DataTypes.h)(0x520CFE66)
+I (C:\Keil\v474\ARM\ARMCC\include\stdint.h)(0x51C88A34)
+I (include\lib\shared\TSS_Sensor.h)(0x520A7230)
+I (src\frdmkl25z48m\derivative.h)(0x518BFA58)
+I (src\frdmkl25z48m\MKL25Z4.h)(0x55458EC0)
+I (src\mcu_init\cpu\arm_cm0.h)(0x50F6094E)
+I (include\lib\shared\TSS_SystemSetupVal.h)(0x51F65C3E)
+F (include\lib\shared\TSS_SystemSetupVal.h)(0x51F65C3E)()
+F (include\lib\shared\TSS_Timer.h)(0x51F65C3E)()
+F (include\lib\lib_uv4\TSS_KXX_M0.lib)(0x520E25D4)()
+F (src\freemaster_cfg.h)(0x5545B585)()
+F (src\main.c)(0x554D4D5D)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork -Isrc\mcu_init\cpu -Isrc\mcu_init\drivers\uart -Isrc\mcu_init\drivers\wdog -Isrc\module_id -Isrc\frdmkl25z48m -Iinclude\gui\source\src_common -Iinclude\gui\source\src_platforms\Kxx -Iinclude\lib\shared -Iinclude\lib\lib_uv4 -Isrc\mcu_init\common -Isrc\mcu_init\platforms -Isrc\mcu_init\drivers\mcg -Iinclude -Isrc-I C:\Keil\v474\ARM\RV31\INC-I C:\Keil\v474\ARM\CMSIS\Include-I C:\Keil\v474\ARM\Inc\Freescale\Kinetis-DFREEDOM -DFRDM_KL25Z48-o .\output\main.o --omf_browse .\output\main.crf --depend .\output\main.d)
+I (src\frdmkl25z48m\MKL25Z4.h)(0x55458EC0)
+I (C:\Keil\v474\ARM\ARMCC\include\stdint.h)(0x51C88A34)
+I (include\lib\shared\TSS_API.h)(0x51F65C3C)
+I (src\frdmkl25z48m\TSS_SystemSetup.h)(0x51BF5EB2)
+I (src\TSS_SystemSetupGlobal.h)(0x521653EE)
+I (include\lib\shared\TSS_StatusCodes.h)(0x51F65C3E)
+I (include\lib\shared\TSS_DataTypes.h)(0x520CFE66)
+I (include\lib\shared\TSS_Sensor.h)(0x520A7230)
+I (src\frdmkl25z48m\derivative.h)(0x518BFA58)
+I (src\mcu_init\cpu\arm_cm0.h)(0x50F6094E)
+I (include\gui\source\src_platforms\Kxx\freemaster.h)(0x51827F6C)
+I (include\gui\source\src_common\freemaster_defcfg.h)(0x50F60A5A)
+I (src\freemaster_cfg.h)(0x5545B585)
+I (src\frdmkl25z48m\board.h)(0x518BFA58)
+I (include\gui\source\src_common\freemaster_tsa.h)(0x51827F6C)
+I (src\app_init.h)(0x518BFA58)
+I (src\events.h)(0x518BFA58)
+I (src\main.h)(0x521653EE)
+I (include\gpio_defs.h)(0x55452FCF)
+F (src\frdmkl25z48m\isr.h)(0x518BFA58)()
+F (src\frdmkl25z48m\TSS_SystemSetup.h)(0x51BF5EB2)()
+F (.\include\gpio_defs.h)(0x55452FCF)()
+F (.\src\main.h)(0x521653EE)()
+F (src\frdmkl25z48m\derivative.h)(0x518BFA58)()
+F (src\frdmkl25z48m\MKL25Z4.h)(0x55458EC0)()
+F (.\startup_MKL25Z4.s)(0x50F6094C)(--cpu Cortex-M0+ -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Keil\v474\ARM\RV31\INC-I C:\Keil\v474\ARM\CMSIS\Include-I C:\Keil\v474\ARM\Inc\Freescale\Kinetis--list .\output\startup_mkl25z4.lst --xref -o .\output\startup_mkl25z4.o --depend .\output\startup_mkl25z4.d)
+F (.\system_MKL25Z4.c)(0x50F6094C)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork -Isrc\mcu_init\cpu -Isrc\mcu_init\drivers\uart -Isrc\mcu_init\drivers\wdog -Isrc\module_id -Isrc\frdmkl25z48m -Iinclude\gui\source\src_common -Iinclude\gui\source\src_platforms\Kxx -Iinclude\lib\shared -Iinclude\lib\lib_uv4 -Isrc\mcu_init\common -Isrc\mcu_init\platforms -Isrc\mcu_init\drivers\mcg -Iinclude -Isrc-I C:\Keil\v474\ARM\RV31\INC-I C:\Keil\v474\ARM\CMSIS\Include-I C:\Keil\v474\ARM\Inc\Freescale\Kinetis-DFREEDOM -DFRDM_KL25Z48-o .\output\system_mkl25z4.o --omf_browse .\output\system_mkl25z4.crf --depend .\output\system_mkl25z4.d)
+I (C:\Keil\v474\ARM\ARMCC\include\stdint.h)(0x51C88A34)
+I (src\frdmkl25z48m\MKL25Z4.h)(0x55458EC0)
+I (src\mcu_init\drivers\wdog\wdog.h)(0x50F60950)
+I (src\mcu_init\cpu\sysinit.h)(0x50F60950)
+F (src\frdmkl25z48m\board.c)(0x51C34EA4)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork -Isrc\mcu_init\cpu -Isrc\mcu_init\drivers\uart -Isrc\mcu_init\drivers\wdog -Isrc\module_id -Isrc\frdmkl25z48m -Iinclude\gui\source\src_common -Iinclude\gui\source\src_platforms\Kxx -Iinclude\lib\shared -Iinclude\lib\lib_uv4 -Isrc\mcu_init\common -Isrc\mcu_init\platforms -Isrc\mcu_init\drivers\mcg -Iinclude -Isrc-I C:\Keil\v474\ARM\RV31\INC-I C:\Keil\v474\ARM\CMSIS\Include-I C:\Keil\v474\ARM\Inc\Freescale\Kinetis-DFREEDOM -DFRDM_KL25Z48-o .\output\board.o --omf_browse .\output\board.crf --depend .\output\board.d)
+I (include\lib\shared\TSS_API.h)(0x51F65C3C)
+I (src\frdmkl25z48m\TSS_SystemSetup.h)(0x51BF5EB2)
+I (src\TSS_SystemSetupGlobal.h)(0x521653EE)
+I (include\lib\shared\TSS_StatusCodes.h)(0x51F65C3E)
+I (include\lib\shared\TSS_DataTypes.h)(0x520CFE66)
+I (C:\Keil\v474\ARM\ARMCC\include\stdint.h)(0x51C88A34)
+I (include\lib\shared\TSS_Sensor.h)(0x520A7230)
+I (src\frdmkl25z48m\derivative.h)(0x518BFA58)
+I (src\frdmkl25z48m\MKL25Z4.h)(0x55458EC0)
+I (src\mcu_init\cpu\arm_cm0.h)(0x50F6094E)
+I (src\mcu_init\drivers\uart\uart_kl25.h)(0x51954C0C)
+I (src\frdmkl25z48m\board.h)(0x518BFA58)
+I (src\app_init.h)(0x518BFA58)
+I (include\gui\source\src_platforms\Kxx\freemaster.h)(0x51827F6C)
+I (include\gui\source\src_common\freemaster_defcfg.h)(0x50F60A5A)
+I (src\freemaster_cfg.h)(0x5545B585)
+I (include\gui\source\src_common\freemaster_tsa.h)(0x51827F6C)
+I (src\main.h)(0x521653EE)
+F (src\frdmkl25z48m\board.h)(0x518BFA58)()
